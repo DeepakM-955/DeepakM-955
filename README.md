@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!%2C+I'm+Deepak+M+%F0%9F%91%8B;ECE+Undergraduate,+CEG%2C+Anna+University;Embedded+System+%7C+AI-IoT+Developer+%7C+Electronics+Innovator;Building+Real-World+Hardware-Software+Systems)](https://github.com/DeepakM-955)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!%2C+I'm+Deepak+M+%F0%9F%91%8B;ECE+Undergraduate,+CEG%2C+Anna+University;Embedded+AI-IoT+Developer+%7C+Programmer+%7C+Electronics+Innovator;Building+Real-World+Hardware-Software+Systems)](https://github.com/DeepakM-955)
 
 </div>
 
