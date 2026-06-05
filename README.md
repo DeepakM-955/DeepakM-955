@@ -111,7 +111,7 @@ College of Engineering, Guindy (CEG), Anna University — **CGPA: 8.4 / 10**
 ## 💼 Leadership Roles
 
 <details>
-<summary><b>🏛️ Joint Secretary — Electronics & Communication Engineers' Association, CEG &nbsp;|&nbsp; Jul 2025 – Present</b></summary>
+<summary><b>🏛️ Joint Secretary — Electronics & Communication Engineers' Association, CEG &nbsp;|&nbsp; Jul 2025 – May 2026</b></summary>
 <br/>
 
 > ![Leadership](https://img.shields.io/badge/Leadership-70A5FD?style=flat-square) ![Event Management](https://img.shields.io/badge/Event_Management-BF91F3?style=flat-square) ![Community](https://img.shields.io/badge/Community_Building-38BDAE?style=flat-square)
